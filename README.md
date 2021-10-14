@@ -27,3 +27,7 @@
 ## Installing Tessera
 
 ![image](https://user-images.githubusercontent.com/40137577/137398150-1c41e2ab-53f6-47fa-817d-871235f109e7.PNG)
+
+## Tessera config
+
+![image](https://user-images.githubusercontent.com/40137577/137400519-4c5f07b6-40d7-4632-a210-9f95a163d840.PNG)
